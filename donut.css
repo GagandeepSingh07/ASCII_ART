@@ -1,0 +1,14 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: monospace;
+}
+
+pre {
+    font-size: 10px;
+    line-height: 10px;
+}
+
+button {
+    margin: 10px;
+}
